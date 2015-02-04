@@ -1,4 +1,9 @@
-# Memcached
+# memcached-1.4.22
+
+## Added
+
+* scripts/memcached-init (cp scripts/memcached-init /etc/init.d/memcached)
+* sysconfig/memcached (required by /etc/init.d/memcached)
 
 ## Dependencies
 
